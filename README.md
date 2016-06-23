@@ -40,7 +40,7 @@ project will benefit (e.g. algorithms or characterization), do you expect?
 ~~~~
 - Edit the file to reflect your proposal
 - Click "Propose new file" at the bottom of the page which will create a new branch that contains your new file
-- Click "Create new pull request" and submit this to the CommissioningProposals repo
+- Click "Create new pull request" and submit this to the CommissioningProposals repository
 - You can then add the proposal to the table below
 
 Alternately you can download [this template](https://github.com/LSSTScienceCollaborations/CommissioningProposals/blob/master/commissioning/commProp_Template.md) and check it into the `commissioning` folder of this repository. Then, add it to the Table below, so everyone can see what you are suggesting and follow the link to your proposal.
