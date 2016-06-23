@@ -7,7 +7,7 @@ starts.
 
 ## Guidelines
 
-The [LSST Observing Strategy White Paper](http://www.slac.stanford.edu/%7Edigel/ObservingStrategy/whitepaper/LSST_Observing_Strategy_White_Paper.pdf) contains an overview of LSST science programs that depend on the details of LSST's observing strategy.   This white paper presents a set of MAF based metrics for a variety of science programs.  Some of the science cases presented would benefit from early data during commissioning either to validate and refine algorithms, bootstrap algorithms to be used in the full survey or provide value added in the science of the full survey (e.g. filling in time sampling that the main survey won't do).
+The [LSST Observing Strategy White Paper](http://www.slac.stanford.edu/%7Edigel/ObservingStrategy/whitepaper/LSST_Observing_Strategy_White_Paper.pdf) contains an overview of LSST science programs that depend on the details of LSST's observing strategy. Some of the science cases presented would benefit from early data during commissioning either to validate and refine algorithms, bootstrap algorithms to be used in the full survey or provide value added in the science of the full survey (e.g. filling in time sampling that the main survey won't do).
 
 When considering a proposed observing run that would be done in commissioning, consider what could be done with the commissioning camera (ComCam - 3x3 4k x 4k CCDs in a single raft with 45 arcmin FOV) and what would need the full camera.  Think also about data that can be obtained in an hour, a night and/or a week or so. 
 
