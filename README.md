@@ -14,9 +14,9 @@ When considering a proposed observing run that would be done in commissioning, c
 To suggest a new `Commissioning Observation or Experiment`, you will need to write a very short *proposal*. 
 
 To create a new commissioning proposal:
-- click the "Create New File" button above
+- Click the "Create New File" button above
 - Give your new file a descriptive name that ends in ".md"
-- paste the following lines into your new file
+- Paste the following lines into your new file
 ~~~~
 # "Template"
 
@@ -38,10 +38,10 @@ Write a few sentences about why you want to make these observations. Which
 science projects will benefit and/or what technical aspect of the
 project will benefit (e.g. algorithms or characterization), do you expect?
 ~~~~
-- edit the file to reflect your proposal
-- click "Propose new file" at the bottom of the page which will create a new branch that contains your new file
-- click "Create new pull request" and submit this to the ObservingStrategy repo
-- you can then add the proposal to the table below
+- Edit the file to reflect your proposal
+- Click "Propose new file" at the bottom of the page which will create a new branch that contains your new file
+- Click "Create new pull request" and submit this to the CommissioningProposals repo
+- You can then add the proposal to the table below
 
 Alternately you can download [this template](https://github.com/LSSTScienceCollaborations/CommissioningProposals/blob/master/commissioning/commProp_Template.md) and check it into the `commissioning` folder of this repository. Then, add it to the Table below, so everyone can see what you are suggesting and follow the link to your proposal.
 
